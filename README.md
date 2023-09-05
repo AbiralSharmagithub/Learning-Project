@@ -1,4 +1,2 @@
 # Learning-Project
-This Project is to learn.
-<br>
-Tutor-Abiral Sharma Ji
+This is a portfolio making project
