@@ -1,0 +1,129 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header
+{   
+    width:100%;
+    height :50px;
+     line-height:10px;    
+    background-color: rgb(64, 77, 77);
+    position: fixed;
+
+}
+ .a { display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color: white;
+    padding-top: 20px;
+}
+.p 
+{    display: flex;
+    color: white;
+      justify-content: flex-end;
+       
+}
+li
+{   list-style-type: none;
+
+    
+}
+li a
+{
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    margin-right: 10px;
+    align-items: center;
+}
+ .b
+{
+   text-align: center;
+    font-size: 15px;
+} 
+img
+{  display: block;
+    width: 300px;
+    height: 250px;
+    margin:auto;
+}
+.portfolio
+{ 
+ padding-top:50px;  
+ background-color: aqua;
+ /* display: flex;
+ flex-direction: row; */
+
+} 
+ .port
+{
+    display: flex;
+     flex-direction: column; 
+    align-content: center;
+    /* flex-wrap: wrap; */
+    
+} 
+.k img
+{     width:250px;
+    height: 300px;
+
+    /* object-fit: contain; */
+} 
+ .proj1
+{
+   display: inline; 
+   margin-top: 50px;
+} 
+.f
+{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 30px 0px 10px 0px;
+}
+.des
+{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ab
+{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form
+{
+    text-align: center;
+    margin-top: 10px;
+}
+.form
+{
+    width: 300px;
+    margin-top:20px;
+}
+.info
+{
+    width: 30%;
+    outline: 0;
+    border: 0;
+    border-bottom: 2px solid aqua;
+    padding: 10px,0px;
+    background: transparent;
+    margin-bottom: 10px;
+}
+#su
+ {  
+    padding: 10px;
+    border:1px solid blue ;
+    border-radius: 4px;
+    text-align: center;
+    background-color: aqua;
+
+}
+.space
+{
+    max-width:100%;
+}
